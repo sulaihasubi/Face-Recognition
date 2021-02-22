@@ -1,4 +1,4 @@
-# Computer Vision Group Project: Face-Recognition
+# Computer Vision Project: Face-Recognition
 This project highlight the Face Recognition technique used to detect and recognize faces of individuals where it is involved in capturing people's faces from a web camera.
 
 # FACIAL RECOGNITION: Are You In CERTIFAI ONLINE CDLE?
